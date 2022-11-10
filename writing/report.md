@@ -1,4 +1,4 @@
-# Report by Add Team Member Names
+# Report by Rian Watson, Rebekah Rudd, Danny Ullrich, Pallas Cain
 
 ## Step 1: Getting Started and `teleop`
 
