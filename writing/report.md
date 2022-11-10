@@ -17,7 +17,7 @@ TODO: Demonstrate your completed application/task with visual representations of
 ## Challenges and Learning Experiences
 
 Discuss any challenges you have encountered during the work on this assignment and describe the biggest learning takeaways.
-A: At first we had trouble conntecting to the robot and getting it to move. Kept getting an error when trying to do the generate the map portion.
+A: At first we had trouble connecting to the robot and getting it to move. Kept getting an error when trying to do the generate the map portion.
 
 ## Team Work
 
