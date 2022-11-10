@@ -10,6 +10,8 @@ We first turned our robot on a plugged it into the power and then we heard the t
 
 TODO: Describe the application/task that you decided to pursue. Include **all** steps you took to implement the task, including all non-technical and technical details. Please include references (links are okay) to all resources you have used.
 
+For this lab we had our Turtlebot4 do a navigation task. We started by creating a map of the campus center with its obstacles such as the pillars, tables, and chairs.
+
 ## Outcomes
 
 TODO: Demonstrate your completed application/task with visual representations of your working solution (pictures or videos of each experiment's scenario or a simulated map). Describe your observations of your working robot in a specific application.
@@ -18,6 +20,8 @@ TODO: Demonstrate your completed application/task with visual representations of
 
 Discuss any challenges you have encountered during the work on this assignment and describe the biggest learning takeaways.
 A: At first we had trouble connecting to the robot and getting it to move. Kept getting an error when trying to do the generate the map portion.
+
+One of the first challenges we experienced was while making the map. The robot would not move and we were not exactly sure why the commands were not working. However, we closed all of the terminals and restarted and the second time it worked fine.
 
 ## Team Work
 
