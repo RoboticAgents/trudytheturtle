@@ -12,7 +12,7 @@ TODO: Describe the application/task that you decided to pursue. Include **all** 
 
 For this lab we had our Turtlebot4 do a navigation task. We started by creating a map of the campus center with its obstacles such as the pillars, tables, and chairs.
 
-## Outcomes
+## Outcomes (rebekah)
 
 TODO: Demonstrate your completed application/task with visual representations of your working solution (pictures or videos of each experiment's scenario or a simulated map). Describe your observations of your working robot in a specific application.
 
