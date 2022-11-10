@@ -2,7 +2,9 @@
 
 ## Step 1: Getting Started and `teleop`
 
-TODO: Describe the steps you took to turn on and get your robot set up, and the steps you took to successfully use `teleop` on the robot.
+Describe the steps you took to turn on and get your robot set up, and the steps you took to successfully use `teleop` on the robot.
+
+We first turned our robot on a plugged it into the power and then we heard the two chimes and waited for it to show up on the wifi. When it wasn't showing up we held the two buttons on either side of the power button and then it showed up on the wifi. Then we waited for it to connect and went to the webpage. We then watched the videos about navigation and map building and started to take the steps to complete that with our robot.
 
 ## Step 2: Implementation Details
 
