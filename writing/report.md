@@ -19,7 +19,6 @@ TODO: Demonstrate your completed application/task with visual representations of
 Discuss any challenges you have encountered during the work on this assignment and describe the biggest learning takeaways.
 A: At first we had trouble conntecting to the robot and getting it to move. Kept getting an error when trying to do the generate the map portion.
 
-
 ## Team Work
 
 TODO: Describe the details of your team working strategy, specifically explain how did you complete this work as a team and describe the specific contributions of each team member.
