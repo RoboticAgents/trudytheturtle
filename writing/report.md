@@ -25,4 +25,5 @@ One of the first challenges we experienced was while making the map. The robot w
 
 ## Team Work
 
-TODO: Describe the details of your team working strategy, specifically explain how did you complete this work as a team and describe the specific contributions of each team member.
+Describe the details of your team working strategy, specifically explain how did you complete this work as a team and describe the specific contributions of each team member.
+A: We had all observed what the team before us had accomplished then started working. We read together how to set up the robot set by set. Once we set the robot us we started to discuss where we wanted the robot to start and end for its path within the campus center. Once we decided this, we moved on to developing the map. Last then we did was take a video of it and uploaded it to our repo. We divied up the report so that everyone could commit to it. We also helped each other by suggesting other small commits for participation points such as adding a word to cspell or adding our names to the report.
