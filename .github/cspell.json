@@ -29,7 +29,12 @@
         "teleop",
         "wifi",
         "Turtlebot",
-        "Turtlebot4"
+        "Turtlebot4",
+        "ALIC",
+        "bringup",
+        "alic",
+        "campuscenter",
+        "Pathfinding"
     ],
     "ignorePaths": [
         ".github/**"
