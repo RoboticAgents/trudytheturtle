@@ -10,13 +10,19 @@ We first turned our robot on a plugged it into the power and then we heard the t
 
 TODO: Describe the application/task that you decided to pursue. Include **all** steps you took to implement the task, including all non-technical and technical details. Please include references (links are okay) to all resources you have used.
 
-For this lab we had our Turtlebot4 do a navigation task. We started by creating a map of the campus center with its obstacles such as the pillars, tables, and chairs.
+For this lab we had our Turtlebot4 do a navigation task. We started by creating a map of the campus center with its obstacles such as the pillars, tables, and chairs. We also generated a map of ALIC using the same method.
 
 ## Outcomes
 
 Demonstrate your completed application/task with visual representations of your working solution (pictures or videos of each experiment's scenario or a simulated map). Describe your observations of your working robot in a specific application.
 
 In this activity when we opened the rviz applications with our saved map we we able to click on the 2D Pose Estimate and then we clicked on the Nav2 Goal. When we took these actions the map generated a fuzzy blue outline around anywhere on the map where there was an obstacle. After having clicked on the 2D Pose Estimate you could then click somewhere on the map to indicate the location you wanted your robot to reach. After doing this your robot would find a route around obstacles to the final destination. The red line indicates the route the robot intends to take and the black dot with dispersing green color around it indicates the robot itself.
+
+Setting the pose:
+[2D Pose]'./set_2d_pose_estimate.png'
+
+Pathfinding to a location:
+[Pathfinding]'./travelling_to_nav2_goal.png'
 
 [alt text]'https://drive.google.com/drive/u/0/my-drive'
 
