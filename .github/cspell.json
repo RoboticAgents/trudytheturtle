@@ -17,12 +17,24 @@
         "gatorgrader",
         "gatorgrade",
         "virtualenv",
+        "Ullrich",
+        "Rian",
+        "Pallas",
         "Noor",
         "Buchi",
         "JJ",
+        "rviz",
         "sheetshuttle",
         "pluginbase",
-        "teleop"
+        "teleop",
+        "wifi",
+        "Turtlebot",
+        "Turtlebot4",
+        "ALIC",
+        "bringup",
+        "alic",
+        "campuscenter",
+        "Pathfinding"
     ],
     "ignorePaths": [
         ".github/**"
